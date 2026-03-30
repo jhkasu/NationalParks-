@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-               xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/jhkasu/NationalParks-/main/NationalParks.xsd">  <NationalPark Rating="4.9">
+<NationalParks>
+  <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
